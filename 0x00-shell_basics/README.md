@@ -13,3 +13,4 @@
 11. ls -la . .. /boot: Displays a list of all files (including hidden files) in the current directory and in the bood directory in long format.
 12. file /tmp/iamafile: Prints the type of the file named iamafile in /tmp.
 13. ln -s /bin/ls __ls__: Creates a symbolic link called __ls__ to /bin/ls in the current directory.
+14. cp -u *.html ..: Creates a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
