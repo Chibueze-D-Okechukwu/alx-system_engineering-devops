@@ -9,3 +9,4 @@
 7. mv /tmp/betty /tmp/my_first_directory: Moves the file betty from /tmp/ to /tmp/my_first_directory.
 8. rm /tmp/my_first_directory/betty: Deletes the file betty in/tmp/my_first_directory/
 9. rm -r /tmp/my_first_directory: Deletes my_first_directory in /tmp.
+10. cd ..: Changes the working directory to the previous one.
