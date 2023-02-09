@@ -1,2 +1,4 @@
 #!/bin/bash
-The script prints the absolute path name of the current working directory.
+pwd: The script prints the absolute path name of the current working directory.
+ls: Displays the contents list of your current directory.
+cd: changes the working directory to the user’s home directory.
