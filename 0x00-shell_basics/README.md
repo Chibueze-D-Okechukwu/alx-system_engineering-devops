@@ -11,3 +11,4 @@
 9. rm -r /tmp/my_first_directory: Deletes my_first_directory in /tmp.
 10. cd -: Changes the working directory to the previous one.
 11. ls -la . .. /boot: Displays a list of all files (including hidden files) in the current directory and in the bood directory in long format.
+12. file /tmp/iamafile: Prints the type of the file named iamafile in /tmp.
