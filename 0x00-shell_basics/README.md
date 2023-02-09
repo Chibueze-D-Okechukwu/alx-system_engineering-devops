@@ -10,4 +10,4 @@
 8. rm /tmp/my_first_directory/betty: Deletes the file betty in/tmp/my_first_directory/
 9. rm -r /tmp/my_first_directory: Deletes my_first_directory in /tmp.
 10. cd -: Changes the working directory to the previous one.
-11. ls -l -a ../ . /boot: Displays a list of all files (including hidden files) in the current directory and in the bood directory in long format.
+11. ls -la . .. /boot: Displays a list of all files (including hidden files) in the current directory and in the bood directory in long format.
