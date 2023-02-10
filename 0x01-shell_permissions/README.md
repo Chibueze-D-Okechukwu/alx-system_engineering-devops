@@ -6,3 +6,4 @@
 4. touch hello: creates an empty file called hello.
 5. chmod u+x hello: adds execute permission to the owner of the file hello.
 6. chmod u+x g+x o+r hello: adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+7. chmod ugo+x hello: adds execution permission to the owner, the group owner and the other users, to the file hello.
