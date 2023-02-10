@@ -9,3 +9,4 @@
 7. chmod ugo+x hello: adds execution permission to the owner, the group owner and the other users, to the file hello.
 8. chmod 007 hello: sets the permission of the file hello to give the owner and group no permission at all but give other users all the permissions.
 9. chmod 753 hello: sets the mode of the file hello to -rwxr-x-wx.
+10. chmod --reference=olleh hello: sets the mode of the file hello the same as olleh’s mode.
