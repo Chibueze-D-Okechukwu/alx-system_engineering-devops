@@ -12,4 +12,5 @@
 10. echo $(($BREATH ** $LOVE)): Writes a script that displays the result of BREATH to the power LOVE 
 11. echo $((2#$BINARY)): converts a number from base 2 to base 10.
 12. echo {a..z}{a..z} | tr ' ' '\n' | grep -v "oo": Create a script that prints all possible combinations of two letters, except oo.
-13. 
+13. printf '%.2f\n' $NUM:  prints a number with two decimal places, followed by a new line.
+14.  
