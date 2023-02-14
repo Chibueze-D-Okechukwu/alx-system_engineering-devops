@@ -9,4 +9,5 @@
 7. echo $((2#$BEST SCHOOL)): Create a script that creates a new global variable. Name: BEST and Value: School
 8. echo $(($TRUEKNOWLEDGE + 128)): prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 9. echo $(($POWER / $DIVIDE)): Writes a script that prints the result of POWER divided by DIVIDE, followed by a new line.
-10. 
+10. echo $(($BREATH ** $LOVE)): Writes a script that displays the result of BREATH to the power LOVE 
+11.
