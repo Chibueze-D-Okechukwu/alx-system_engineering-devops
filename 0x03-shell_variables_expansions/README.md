@@ -6,4 +6,5 @@
 4. printenv: Creates a script that lists environment variables. 
 5. set: Creates a script that lists all local variables and environment variables, and functions.
 6. Best="School":Create a script that creates a new local variable. Name: BEST and Value: School.
-7. 
+7. echo $((2#$BEST SCHOOL)): Create a script that creates a new global variable. Name: BEST and Value: School
+8.
